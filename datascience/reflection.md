@@ -1,10 +1,15 @@
 # Mid-Semester Reflection on Data Science
 
 Apr. 8, 2021 - **Preliminary Hand-In**
+
 Hanno Grimm
+
 [hanno.grimm@code.berlin](mailto:hanno.grimm@code.berlin)
+
 6th Semester
+
 _SE_25 Data Science_
+
 Self-Directed Learning for Stock Market Analysis (Solo)
 
 ## Goals and Achievement
