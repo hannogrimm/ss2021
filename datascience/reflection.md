@@ -1,10 +1,15 @@
-# Reflection on Data Science (Un)guided Projects
+# Mid-Semester Reflection on Data Science
 
 Apr. 8, 2021 - **Preliminary Hand-In**
+
 Hanno Grimm
+
 [hanno.grimm@code.berlin](mailto:hanno.grimm@code.berlin)
+
 6th Semester
+
 _SE_25 Data Science_
+
 Self-Directed Learning for Stock Market Analysis (Solo)
 
 ## Goals and Achievement
@@ -16,8 +21,24 @@ It was important for me to practice what I learn in projects, so I can see if I 
 
 For this solo semester-project, I set out to be confident to say "I know how to approach this data analysis", i.e build a relevent knowledge base to be familiar and comfortable to take on Data Analysis in the future. Besides that, educating myself about stock finances was something I felt a genuine interest in. The projects main objective is to serve as a gate to exploring and understanding more of the dynamics of the stock market, its potential flaws. To be able to form a more informed opinion on financial topics as the real-estate crash foregoing the financial crisis in 2008/9 - or to simply _understand them_ - is eminently important for me to achieve with my efforts and therefore my target goal.
 
+## Execution
 
-### Execution
+Sitting down and preparing a semester plan was really helpful to keep track of the necessary steps to achieve my goals. I was able to see when I was lacking behind with my estimated timeline, which was also a great chance to reflect on what my priorities should be for the recent time.
+
+#### Courses
+For my education, I found DataCamp to be a great fit for this need, as the courses introduce theory and practice together. For the finance-focused courses, I used video material on YouTube to research open questions, e.g. mathematical functions for financial factors, that were left unexplained in the courses. [Investopedia](https://www.investopedia.com/) was also a great resource to re-visit terminologies and learn more around the scope.
+
+I decided to do one pure Data Science course (Data Manipulation with Pandas). I then chose one additional course to guide me into the foundations of financial analysis which simulanteously explored more data visualization with _matplotlib_ or _seaborn_. (Introduction to Financial Concepts in Python). I then proceeded with two more Applied Finances courses which are listed further down below. 
+
+The total list of courses I have taken:
+* (100%) Data Manipulation with Pandas
+* (100%) Introduction to Financial Concepts in Python
+* (75%) Introduction to Portfolio Analysis in Python
+* (30%) Intermediate Data Visualization with seaborn
+
+_As some courses have partially the same topics, I skipped some of its content to avoid repetition._ 
+
+#### Projects
 
 After my time with studying courses, I proceeded to get my hands on guided projects to practice. I chose DataCamp projects for this and one own project as a synthesis of all my learnings from the courses. A summary of their goals these can be further gathered in the `projects/README.md`. They all revolve around the question of risk or investment value analysis.
 
