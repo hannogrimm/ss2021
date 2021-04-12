@@ -16,6 +16,3 @@ It is therefore to be analyzed if the hypothesis of a significant change in _act
 ### Own Project: Amazon & Tesla Stock Risk Comparison
 My own project realizes the scenario of a friend that would like to make a single stock investment and is in need of a risk-comparison of two stocks. The target of this project is to implement my learnings of financial data analysis, risk management and data visualizations with `seaborn`. The steps of the project are expanded with self-written explanations and decorations to highlight my learnings.
 
-## Reflection
-
-Reflection goes here.
