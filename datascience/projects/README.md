@@ -6,7 +6,9 @@ Author: Hanno Grimm
 [Click here to review the project.](self--stock-risk-comparison/archive/notebook.ipynb) My own project realizes the scenario of a friend that would like to make a single stock investment and is in need of a risk-comparison of two stocks. The target of this project is to implement my learnings of financial data analysis, risk management and data visualizations with `seaborn`. The steps of the project are expanded with self-written explanations and decorations to highlight my learnings.
 
 ## Guided Projects
-The main emphasis of my guided projects was the handling and visualization of financial concepts. I oriented myself along the content of the courses I have taken on DataCamp. I saw the guided projects as an opportunity to put into practice what I have consumed through the courses. The projects have a focus on risk management and investment strategies. 
+The main emphasis of my guided projects was the handling and visualization of financial concepts. I oriented myself along the content of the courses I have taken on DataCamp. I saw the guided projects as an opportunity to put into practice what I have consumed through the courses. The projects have a focus on risk management and investment strategies.
+
+As agreed with the module coordinator, two guided projects were found sufficient to apply the knowledge - with my main project (see above) serving as the third required project.
 
 ### Datacamp: Risk and Return - The Sharpe Ratio
 This guided project introduced me to a new method of rating the value of return based on the implied risk of an investment. The Sharpe Ratio is a formula that can be applied to compare two assets on their risk-return ratio performance. The asset with the higher Sharpe Ratio provides a higher return for the same taken risk - and is therefore the favorable asset. The Sharpe Ratio was a relevant contribution to the Economic Nobel Prize of William F. Sharpe and is a common and relevant method to calculate return-per-risk still today. [Click here to review the project.](datacamp--risk-and-return-the-sharpe-ratio/notebook.ipynb)
