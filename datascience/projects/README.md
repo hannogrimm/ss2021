@@ -9,6 +9,8 @@ The main emphasis of my guided projects was the handling and visualization of fi
 
 As agreed with the module coordinator, two guided projects were found sufficient to apply the knowledge - with my main project (see above) serving as the third required project.
 
+I am really happy with the preliminary outcome of my own project, as I felt confident and motivated to explain my steps. Furthermore, I am very surprised and happy how well I picked up the data visualization with seaborn. It required me a few Google searches to find out how to e.g. draw a horizontal x-line. The Learning Unit on Statistics & Probabilities and the data visualization course gave me an understanding on _when_ and _how_ to use a type of plot. My approach to apply & practice proved to me that I picked up data visualizations well and I am confident to implement it in the future.
+
 ### Datacamp: Risk and Return - The Sharpe Ratio
 This guided project introduced me to a new method of rating the value of return based on the implied risk of an investment. The Sharpe Ratio is a formula that can be applied to compare two assets on their risk-return ratio performance. The asset with the higher Sharpe Ratio provides a higher return for the same taken risk - and is therefore the favorable asset. The Sharpe Ratio was a relevant contribution to the Economic Nobel Prize of William F. Sharpe and is a common and relevant method to calculate return-per-risk still today. [Click here to review the project.](datacamp--risk-and-return-the-sharpe-ratio/notebook.ipynb)
 
@@ -23,4 +25,6 @@ I have found the two guided projects provided by DataCamp as insightful in their
 I therefore took the time to research and look further into the methods applicated, i.e. what should and can I do something with the `.agg` method of pandas DataFrames?
 
 The projects were insightful regarding the financial education and I am happy I finished them. For example, the project on Sharpe Ratios gave me the insight into a common method to determine a simple risk-and-return comparison between two assets (i.e. is Facebook or Amazon a better investment at same risk?). This made me  curious to learn more about risk management and led me into starting a course on DataCamp on portfolio risk management in Python. I was able to utilize the projects as a great icebreaker into learning more of what I wanted to learn.
+
+Generally, I am very content with my projects as I discovered that I understood fundamental concepts and gained relevant skills in data manipulation and visualization. To regard to my study progress in the frame of the module, I am positive about my knowledge in data handling and exploration. 
 
