@@ -10,4 +10,5 @@ An overview of my courses taken on DataCamp:
 * (75%) Introduction to Portfolio Analysis in Python
 * (40%) Introduction to Risk Management in Python
 * (30%) Intermediate Data Visualization with seaborn
+
 (**bold** are featured in this portfolio)
