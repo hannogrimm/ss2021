@@ -7,3 +7,5 @@ At the start of the course, I practiced copying the practical tasks of the DataC
 
 ### Notes
 This document is a partial notes-page off my relevant learnings about DataFrames. Similar to the project notebook, I have quit this practice in the middle of the course. I have found it more beneficial to apply it directly in my projects with trial and error.
+[Click here to review the notes.](notes.md)
+
